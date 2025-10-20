@@ -1,1 +1,0 @@
-# Sum-Of-The-Diagonal-Element
